@@ -1,10 +1,8 @@
 ![MasterHead](https://krita-artists.org/uploads/default/original/3X/0/5/05988d8740e296bdda10ed706cde5d67c8fd7010.gif)
 <h1 align="center">Hi 👋, I'm Alexander</h1>
-<h3 align="center">RTU MIREA Student</h3>
+<h3 align="center">Android developer in SBER✅</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexp0111&label=Profile%20views&color=0e75b6&style=flat" alt="alexp0111" /> </p>
-
-- 🌱 I’m currently learning IPC, FLOWs
 
 - 📫 How to reach me **alexp0111@mail.ru**
 
